@@ -2,6 +2,11 @@
 
 Full-stack SaaS starter demo built with Next.js 15, Supabase Auth + DB, Stripe Checkout, Tailwind CSS, and Vercel.
 
+## Links
+
+- Live demo: https://saas-starter-demo-ten.vercel.app
+- GitHub: https://github.com/mikeai-cloud/saas-starter-demo
+
 ## Features
 - Responsive landing page
 - Supabase email magic-link auth
